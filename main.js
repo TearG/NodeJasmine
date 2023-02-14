@@ -1,6 +1,6 @@
 class Conta {
 
-  constructor(agencia, conta, dac){
+  constructor(agencia, conta, dac) {
     this.agencia = agencia;
     this.conta = conta;
     this.dac = dac;
